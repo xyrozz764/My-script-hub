@@ -26,7 +26,6 @@ local player = game.Players.LocalPlayer
 ‎    Time = 5
 ‎})
 ‎
-‎-- WalkSpeed Button
 ‎Tab:AddButton({
 ‎    Name = "Set Walkspeed to 50",
 ‎    Callback = function()
@@ -36,7 +35,6 @@ local player = game.Players.LocalPlayer
 ‎    end    
 ‎})
 ‎
-‎-- JumpPower Button
 ‎Tab:AddButton({
 ‎    Name = "Set JumpPower to 50",
 ‎    Callback = function()
@@ -73,7 +71,6 @@ local player = game.Players.LocalPlayer
 ‎    Time = 5
 ‎})
 ‎
-‎-- WalkSpeed Button
 ‎Tab:AddButton({
 ‎    Name = "Set Walkspeed to 50",
 ‎    Callback = function()
@@ -83,7 +80,7 @@ local player = game.Players.LocalPlayer
 ‎    end    
 ‎})
 ‎
-‎-- JumpPower Button
+
 ‎Tab:AddButton({
 ‎    Name = "Set JumpPower to 50",
 ‎    Callback = function()
